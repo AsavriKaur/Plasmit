@@ -1,4 +1,4 @@
-# ECG datasets for atrial fibrillation research
+# ECG datasets for atrial fibrillation early detection
 
 An exploratory overview of public long-term ECG and RR-interval databases containing
 atrial fibrillation (AF) and normal sinus rhythm recordings.
